@@ -1,4 +1,4 @@
-``mermaid
+```mermaid
 
 
 sequenceDiagram
@@ -46,4 +46,4 @@ sequenceDiagram
     User->>Server2: 21. DHCP Release (Permanent Disconnect)
     Server2-->>User: 22. Acknowledge Release
 
-``
+```
